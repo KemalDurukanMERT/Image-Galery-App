@@ -28,7 +28,7 @@ const data = [
       },
     },
     {
-      photographer: 'op23',
+      photographer: 'op25',
       src: {
         large:
           'https://images.pexels.com/photos/12166061/pexels-photo-12166061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -56,7 +56,7 @@ const data = [
       },
     },
     {
-      photographer: 'Malik Skydsgaard',
+      photographer: 'Malik Skydsgerd',
       src: {
         large:
           'https://images.pexels.com/photos/12132217/pexels-photo-12132217.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -84,7 +84,7 @@ const data = [
       },
     },
     {
-      photographer: 'Poyee Tsang',
+      photographer: 'Poyee Tsank',
       src: {
         large:
           'https://images.pexels.com/photos/12139755/pexels-photo-12139755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -98,7 +98,7 @@ const data = [
       },
     },
     {
-      photographer: 'Eugene Golovesov',
+      photographer: 'Eugene Golovesev',
       src: {
         large:
           'https://images.pexels.com/photos/12142950/pexels-photo-12142950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -112,7 +112,7 @@ const data = [
       },
     },
     {
-      photographer: 'Malik Skydsgaard',
+      photographer: 'Malik Skydsgard',
       src: {
         large:
           'https://images.pexels.com/photos/12132204/pexels-photo-12132204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -147,7 +147,7 @@ const data = [
       },
     },
     {
-      photographer: 'op23',
+      photographer: 'op24',
       src: {
         large:
           'https://images.pexels.com/photos/12125084/pexels-photo-12125084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -175,7 +175,7 @@ const data = [
       },
     },
     {
-      photographer: 'Elena Rubtsova',
+      photographer: 'Elena Rubtsove',
       src: {
         large:
           'https://images.pexels.com/photos/12082485/pexels-photo-12082485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -217,7 +217,7 @@ const data = [
       },
     },
     {
-      photographer: 'Leah Kelley',
+      photographer: 'Leah Halley',
       src: {
         large:
           'https://images.pexels.com/photos/12128380/pexels-photo-12128380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
